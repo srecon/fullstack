@@ -22,4 +22,4 @@ Response
     "scope": "profile email"
 }
 
-Source code of this forked from the spring-boot-modules/spring-boot-keycloak 
+Source code of the project is forked from the repository https://github.com/eugenp/tutorials/tree/master/spring-boot-modules/spring-boot-keycloak  
